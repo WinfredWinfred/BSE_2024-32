@@ -1,0 +1,14 @@
+.dashboard .actions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 5%;
+}
+.dashboard .actions button{
+    border: none;
+    background-color: teal;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
